@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889366808180",
+    "project_id": "car-project-b2670",
+    "storage_bucket": "car-project-b2670.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889366808180:android:4b968830ffc035afa33321",
+        "android_client_info": {
+          "package_name": "com.example.car_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKxGqT6ACVB30dlXAXR-ivBRH-1ZCqx_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
